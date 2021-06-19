@@ -1,0 +1,17 @@
+body {
+    background-color:linear-gradient (#DCE775 40%,#FFD54F 30%); 
+}
+img {
+    transition: transform.2s;
+    border: 10px solid #AAAAAA;
+}
+img:hover {
+    transform: scale (0.9);
+}
+#contacts {
+    background:firebrick;
+}
+.contacts_1 a {
+    text-shadow:none;
+    
+}
